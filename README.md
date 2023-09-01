@@ -1,1 +1,1 @@
-# Library
+# Library for VueJS 3 project
